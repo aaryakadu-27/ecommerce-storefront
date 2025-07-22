@@ -1,0 +1,4 @@
+[
+  {"id":"1","name":"Smartphone A","price":12000,"category":"Electronics","rating":4.2,"image":"/assets/phone.jpg","description":"A great phone"},
+  {"id":"2","name":"Headphones B","price":2500,"category":"Accessories","rating":4.7,"image":"/assets/headphones.jpg","description":"High-quality sound"}
+]
